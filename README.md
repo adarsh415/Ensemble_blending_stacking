@@ -9,5 +9,10 @@ Numpy
 Scikit learn
 Scipy
 
+How to Run:
+
+-> create models directory to save models, model will be saved in this directory
+-> create data directory and download and extract data into data directory
+
 ==============================================================================================
  Inpired by Abhishek Thakur
